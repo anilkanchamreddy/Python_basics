@@ -1,0 +1,9 @@
+Creating an empty list	--> sample_list=[]	
+List can store both homogeneous and heterogeneous elements --> sample_list1=["Mark",5,"Jack",9, "Chan",5]
+                                                               sample_list2=["Mark","Jack", "Chan"]	
+Creating a list with known size and unknown elements	--> sample_list=[None]*5	
+Length of the list	--> len(sample_list)	
+appending the list --> sample_list.append("James")	
+oncating two lists --> new_list=["Henry","Tim"]
+                       sample_list+=new_list
+                       sample_list=sample_list+new_list
